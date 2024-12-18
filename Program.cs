@@ -30,6 +30,15 @@ namespace PracticalIfElse
                 Console.WriteLine("The number entered is greater than 10.");
             
             }
+
+            if (intNum % 2 == 0)
+            {
+                Console.WriteLine("is an even number");
+            }
+            else 
+            {
+                Console.WriteLine("It is an odd number.");
+            }
         }
     }
 }
