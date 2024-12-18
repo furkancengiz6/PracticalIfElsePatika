@@ -4,5 +4,7 @@ Bu pratik uygulamasında sizlerden konsol ekranı yardımıyla kullanıcıdan bi
 Ardından 2. bir kontrol yapısıyla girilen sayının çift mi yoksa tek mi olduğunu ekrana yazdırınız.
 
 Örnek konsol ekranı çıktısı :
-![resim](https://github.com/user-attachments/assets/928c4d04-ae56-4c19-ae20-987558d40e81)
+
+![resim](https://github.com/user-attachments/assets/9adbd87c-03dc-499e-854d-34b1582de511)
+
 
